@@ -14,6 +14,7 @@
     "shuffled-priority-queue": "^2.1.0"
   },
   "devDependencies": {
+    "@types/events": "^3.0.2",
     "brittle": "^3.0.2",
     "hypercore-crypto": "^2.3.0",
     "math-random-seed": "^2.0.0",
